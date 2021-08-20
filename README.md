@@ -1,2 +1,4 @@
 # Color-Identification-in-Images
-GRIP - THE SPARKS FOUNDATION - COMPUTER VISION &amp; IOT TASK 1
+
+GRIP: THE Sparks Foundation: Computer Vision & IOT
+Implement an image color detector which identifies all the colors in an image or video.
